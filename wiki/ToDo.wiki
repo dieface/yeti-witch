@@ -1,5 +1,5 @@
 #summary Project TODO list
 
-  * Port the Double Metaphone algorithm from Apache Codec - ./trunk/src/java/org/apache/commons/codec/language/DoubleMetaphone.java
-  * Implement Reverse Soundex
+  * Port the Double Metaphone algorithm from Apache Codec.
+  * Implement Reverse Soundex.
   * Nothing is hugely fine tuned for performance yet, especially the ported Java code.
